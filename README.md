@@ -9,4 +9,6 @@ For this challenge I am to create a summary data frame of ride sharing date grou
 - In the latter half of February 2019, fare totals increase for all three areas
 - At the end of April 2019, total fare amounts decrease for rural and urban areas but increase for suburbia
 
+! https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/fare_per_priver.PNG
+!
 ## Summary
