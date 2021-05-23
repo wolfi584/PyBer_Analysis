@@ -11,5 +11,5 @@ For this challenge I am to create a summary data frame of ride sharing date grou
 
 ! https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/fare_per_priver.PNG
 ! https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/driver_count.PNG
-! 
+! https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/average_fare_per_city_type.PNG
 ## Summary
