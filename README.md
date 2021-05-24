@@ -10,13 +10,13 @@ For this challenge I am to create a summary data frame of ride sharing date grou
 - At the end of April 2019, total fare amounts decreased for rural and urban areas but increased for suburbia
 
 ### Image 1 title
-![A](https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/fare_per_priver.PNG)
+![A](https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/fare_per_priver.PNG?raw=true)
 ### Driver count per city type
-![B](https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/driver_count.PNG)
+![B](https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/driver_count.PNG?raw=true)
 ### Fare per city type
-![C](https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/average_fare_per_city_type.PNG)
+![C](https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/average_fare_per_city_type.PNG?raw=true)
 ### Fare total by date and city type
-![D](https://github.com/wolfi584/PyBer_Analysis/blob/main/matplotlib_chart.PNG)
+![D](https://github.com/wolfi584/PyBer_Analysis/blob/main/Resources/matplotlib_chart.PNG?raw=true)
 
 ## Summary
 ### Recommendations addressing disparities
